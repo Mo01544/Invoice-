@@ -1,0 +1,78 @@
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\BillPro.exe.config
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\BillPro.exe
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\BillPro.pdb
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\EntityFramework.dll
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\EntityFramework.SqlServer.dll
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\EntityFramework.xml
+E:\laps\LINQ\project\BillPro\BillPro\bin\Debug\EntityFramework.SqlServer.xml
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.csproj.AssemblyReference.cache
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.csproj.SuggestedBindingRedirects.cache
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Properties.Resources.resources
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.csproj.GenerateResource.cache
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.csproj.CoreCompileInputs.cache
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.csproj.CopyComplete
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.exe
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.pdb
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Migrations.v1.resources
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Migrations.v2.resources
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Migrations.v3.resources
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Migrations.v4.resources
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Migrations.v5.resources
+E:\laps\LINQ\project\BillPro\BillPro\obj\Debug\BillPro.Migrations.v6.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\BillPro.exe.config
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\BillPro.exe
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\BillPro.pdb
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\EntityFramework.dll
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\EntityFramework.xml
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.csproj.AssemblyReference.cache
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Form1.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v1.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v2.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v3.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v4.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v5.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v6.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Properties.Resources.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.csproj.GenerateResource.cache
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.csproj.CoreCompileInputs.cache
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.csproj.CopyComplete
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.exe
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.pdb
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Homepage.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Species.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.invoices.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Companny.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v7.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.unitt.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Iteem.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v8.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Clientt.resources
+C:\Users\sabry\OneDrive\Desktop\BillPro\BillPro\obj\Debug\BillPro.Migrations.v9.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\BillPro.exe.config
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\BillPro.exe
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\BillPro.pdb
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\EntityFramework.dll
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\EntityFramework.SqlServer.dll
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\EntityFramework.xml
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\bin\Debug\EntityFramework.SqlServer.xml
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.SuggestedBindingRedirects.cache
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Clientt.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Form1.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Companny.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Homepage.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Iteem.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Properties.Resources.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Species.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.unitt.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.GenerateResource.cache
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.CoreCompileInputs.cache
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.CopyComplete
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.exe
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.pdb
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.invoice.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v1.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Reports.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.AssemblyReference.cache
