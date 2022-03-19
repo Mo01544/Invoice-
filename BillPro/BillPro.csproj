@@ -77,6 +77,10 @@
     <Compile Include="Companny.Designer.cs">
       <DependentUpon>Companny.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203192055505_v2.cs" />
+    <Compile Include="Migrations\202203192055505_v2.designer.cs">
+      <DependentUpon>202203192055505_v2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Reports.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -137,6 +141,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Companny.resx">
       <DependentUpon>Companny.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203192055505_v2.resx">
+      <DependentUpon>202203192055505_v2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports.resx">
       <DependentUpon>Reports.cs</DependentUpon>

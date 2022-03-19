@@ -193,6 +193,7 @@ namespace BillPro
             clientNumber = (int)cmbClientName.SelectedValue,
             invoiceDate = txtBillDate.Value,
             invoicePaidup = int.Parse(txtPaidUp.Text),
+            invoiceNet = double.Parse(txtNet.Text),
         };
 
             

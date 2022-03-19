@@ -23,6 +23,11 @@ namespace BillPro
         [Required]
         public double invoicePaidup { get; set; }
 
+
+        public double invoiceNet { get; set; }
+
+       
+
         public virtual Client Clientt { get; set; }
         public virtual List<itemInvoice> ItemInvoices { get; set; }
 

@@ -76,3 +76,4 @@ E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.invoice.re
 E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v1.resources
 E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Reports.resources
 E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.AssemblyReference.cache
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v2.resources
