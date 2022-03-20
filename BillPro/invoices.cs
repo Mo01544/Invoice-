@@ -96,12 +96,41 @@ namespace BillPro
                 txtSelling.Text = itemm.itemSellingPrice.ToString();
         }
 
+        private void txtPercentage_TextChanged(object sender, EventArgs e)
+        {
+            string value = txtPercentage.Text;
+
+            if (value == "")
+            {
+                //Display Error Message
+                MessageBox.Show("Please Add Discount First");
+                txtPercentage.Text = (0).ToString();
+                txtValueDiscound.Enabled = true;
+            }
+            else if (typeCheckInt(txtPercentage.Text) == false)
+            {
+                MessageBox.Show("Discount Percentage must be A number");
+            }
+            else
+            {
+                //Get the discount in decimal value
+                decimal subTotal = decimal.Parse(txtBillTotal.Text);
+                decimal discount = decimal.Parse(txtPercentage.Text);
+                txtValueDiscound.Enabled = false;
+
+                decimal grandTotal = (discount / 100) * subTotal;
+
+                //Display the GrandTotla in TextBox
+                txtNet.Text = grandTotal.ToString();
+            }
+        }
         private void txtValueDiscound_TextChanged(object sender, EventArgs e)
         {
             string value = txtValueDiscound.Text;
             if (value == "")
             {
                 MessageBox.Show("PLZ enter Discound");
+                txtValueDiscound.Text = (0).ToString();
                 txtPercentage.Enabled = true;
             }
             else if (typeCheckInt(txtValueDiscound.Text) == false)
@@ -110,7 +139,9 @@ namespace BillPro
             }
             else
             {
-                var calcnet = (decimal.Parse(txtBillTotal.Text) - decimal.Parse(txtValueDiscound.Text)).ToString();
+                double subTotal = double.Parse(txtBillTotal.Text);
+                double discount = double.Parse(txtValueDiscound.Text);
+                double calcnet = subTotal - discount;
                 txtNet.Text = calcnet.ToString();
                 txtPercentage.Enabled = false;
             }
@@ -158,33 +189,7 @@ namespace BillPro
             
         }
        
-        private void txtPercentage_TextChanged(object sender, EventArgs e)
-        {
-            string value = txtPercentage.Text;
-
-            if (value == "")
-            {
-                //Display Error Message
-                MessageBox.Show("Please Add Discount First");
-                txtValueDiscound.Enabled = true;
-            }
-            else if(typeCheckInt(txtPercentage.Text) == false)
-            {
-                MessageBox.Show("Discount Percentage must be A number");
-            }
-            else
-            {
-                //Get the discount in decimal value
-                decimal subTotal = decimal.Parse(txtBillTotal.Text);
-                decimal discount = decimal.Parse(txtPercentage.Text);
-                txtValueDiscound.Enabled = false;
-                
-                decimal grandTotal = (discount / 100) * subTotal;
-
-                //Display the GrandTotla in TextBox
-                txtNet.Text = grandTotal.ToString();
-            }
-        }
+       
 
         private void btnSave_Click(object sender, EventArgs e)
         {
@@ -192,12 +197,18 @@ namespace BillPro
             {
             clientNumber = (int)cmbClientName.SelectedValue,
             invoiceDate = txtBillDate.Value,
-            invoicePaidup = int.Parse(txtPaidUp.Text),
+            billTolal = double.Parse(txtBillTotal.Text),
+            percentageDiscount = txtPercentage.Text.ToString(),
+            valueDiscount = txtValueDiscound.Text.ToString(),
             invoiceNet = double.Parse(txtNet.Text),
+            invoicePaidup = double.Parse(txtPaidUp.Text),
+            invoiceRest = double.Parse(txtRest.Text),
+
         };
 
             
-            
+
+
 
             db.Invoices.Add(invoice);
             MessageBox.Show("saved :)");

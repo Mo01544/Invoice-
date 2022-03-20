@@ -77,3 +77,7 @@ E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations
 E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Reports.resources
 E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.csproj.AssemblyReference.cache
 E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v2.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v3.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v4.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v5.resources
+E:\laps\LINQ\project\last version\2\BillPro\BillPro\obj\Debug\BillPro.Migrations.v6.resources
