@@ -24,5 +24,7 @@ namespace BillPro.models
         public string clientPhone { get; set; }
 
         public virtual List<Invoice> Invoices{ get; set; }
+
+        //coment
     }
 }
